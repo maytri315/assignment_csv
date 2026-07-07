@@ -1,0 +1,6 @@
+.next
+node_modules
+server/dist
+*.log
+shared/*.js
+tsconfig.tsbuildinfo
